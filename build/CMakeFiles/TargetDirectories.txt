@@ -1,0 +1,3 @@
+/home/adam/Documents/C++_projects/trading_engine/build/CMakeFiles/trading_engine.dir
+/home/adam/Documents/C++_projects/trading_engine/build/CMakeFiles/edit_cache.dir
+/home/adam/Documents/C++_projects/trading_engine/build/CMakeFiles/rebuild_cache.dir
